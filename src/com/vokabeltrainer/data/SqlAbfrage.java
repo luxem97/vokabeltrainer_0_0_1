@@ -9,9 +9,9 @@ import java.sql.Statement;
 import lombok.Getter;
 @Getter
 public class SqlAbfrage {
-	private String username = "mark";
-	private String password = "mark";
-	private String url = "jdbc:mariadb://217.160.50.160:3306/vokabeltrainer";
+	private String username = "xxx";
+	private String password = "xxx";
+	private String url = "jdbc:mariadb://xxx:3306/vokabeltrainer";
 	private String abfrage;
 	private ResultSet resultSet = null;
 
